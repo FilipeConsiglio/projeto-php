@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.card-header {
+    border-radius: 12px 12px 0 0 !important;
+}
+
+.btn {
+    border-radius: 8px;
+}
